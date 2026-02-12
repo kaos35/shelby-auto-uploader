@@ -88,10 +88,8 @@ shelby account blobs
 # 4. API key'i ekleyin
 shelby context update shelbynet --indexer-api-key SIZIN_API_KEYINIZ
 
-# 5. Token alın:
-#    https://faucet.shelby.com
-#    → Cüzdan adresinizi girin
-#    → Fund butonuna tıklayın
+# 5. Token alın (Aptos + ShelbyUSD)
+shelby faucet
 
 # 6. Bakiyeyi kontrol edin
 shelby account balance

@@ -1,0 +1,42 @@
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.temp
+
+# Node modules
+node_modules/
+
+# Editor dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# SSH ve anahtar dosyaları
+*.pem
+*.key
+id_rsa*
+
+# Shell script backup dosyaları
+*.bak
+*.backup
+
+# OS dosyaları
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Önbellek dosyaları
+*.pyc
+*.pyo

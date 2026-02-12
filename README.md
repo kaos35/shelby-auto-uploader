@@ -80,9 +80,11 @@ shelby init
 shelby account blobs
 
 # 3. API key almak için:
-#    https://console.shelby.com
-#    → Proje oluşturun
-#    → API Key oluşturun
+#    https://geomi.dev
+#    → "Sign Up / Log In" ile giriş yapın
+#    → "API Access" bölümüne gidin
+#    → "Generate API Key" butonuna tıklayın
+#    → Network olarak "Shelbynet" seçin
 #    → API key'i kopyalayın
 
 # 4. API key'i ekleyin

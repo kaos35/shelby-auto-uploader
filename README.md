@@ -90,6 +90,8 @@ shelby context update shelbynet --indexer-api-key SIZIN_API_KEYINIZ
 
 # 5. Token alın (Aptos + ShelbyUSD)
 shelby faucet
+# Bu komut tarayıcıda faucet sayfasını açar
+# Açılan sayfada "Fund" butonuna tıklayın
 
 # 6. Bakiyeyi kontrol edin
 shelby account balance
